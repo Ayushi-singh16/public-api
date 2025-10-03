@@ -18,3 +18,5 @@ The frontend was developed using React.js, providing a responsive and interactiv
 The application emphasizes real-time data fetching, API integration, and full-stack development practices. Users can monitor live cryptocurrency updates in an easy-to-use interface while the backend handles API communication and data management.
 
 This internship helped me enhance my skills in React.js, Node.js, MongoDB, and API integration, while gaining hands-on experience in developing interactive, data-driven full-stack applications. The project also demonstrates the ability to work under guidance, follow best coding practices, and deliver a functional solution within the one-month internship duration.
+output-
+![Image](https://github.com/user-attachments/assets/3e640801-1b33-4dac-85cd-137b7a7dbef7)
